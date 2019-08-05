@@ -32,8 +32,10 @@
 
 ### Day 1: Aug 5, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Started working on FreeCodeCamp Personal Portfolio Project, finised header of the page
 
-**Thoughts**: 
+Another practice on sticky header as previous projects,... So I think I have to preview it for sure!
 
-**Link(s) to work**: 
+**Thoughts**: A bit more advanced on color styling, but it looks simple and beauty :D
+
+**Link(s) to work**: [CodePen]https://codepen.io/thanhmd/pen/aeVeLo
