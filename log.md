@@ -39,3 +39,14 @@ Another practice on sticky header as previous projects,... So I think I have to 
 **Thoughts**: A bit more advanced on color styling, but it looks simple and beauty :D
 
 **Link(s) to work**: [CodePen]https://codepen.io/thanhmd/pen/aeVeLo
+
+### Day 2: Aug 6, 2019
+
+**Today's Progress**:
+- Continue to work on FCC Personal Portfolio Project
+- Almost finished HTML, need more CSS tweak, will add some projects to the page.
+- Get practice on flexboxes, I feel a litle want to work more on font styling and gradient background
+
+**Thoughts**: I will try to focus on researching typeography and color for proper styles
+
+**Link(s) to work**: [CodePen]https://codepen.io/thanhmd/pen/aeVeLo
