@@ -43,10 +43,22 @@ Another practice on sticky header as previous projects,... So I think I have to 
 ### Day 2: Aug 6, 2019
 
 **Today's Progress**:
-- Continue to work on FCC Personal Portfolio Project
-- Almost finished HTML, need more CSS tweak, will add some projects to the page.
+- Continue working on FCC Personal Portfolio Project
+- Almost finish the HTML, will make some CSS tweaks, will add some projects to the page.
 - Get practice on flexboxes, I feel a litle want to work more on font styling and gradient background
 
-**Thoughts**: I will try to focus on researching typeography and color for proper styles
+**Thoughts**: I will try to focus on researching typeography and color for proper styling
+
+**Link(s) to work**: [CodePen]https://codepen.io/thanhmd/pen/aeVeLo
+
+### Day 3: Aug 7, 2019
+
+**Today's Progress**:
+- Continue working on FCC Personal Portfolio Project
+- Try tweaking CSS to adapt it to reponsive view
+- Learn things by viewing other people's code that I don't know how to implement that, and try to apply a bit by bit to the the project
+- Realize that reponsive design is a huge subject.
+**Thoughts**: Reponsive design is pretty tricky and hard, I cound spend more time on it.
+Should finish this project tommorow
 
 **Link(s) to work**: [CodePen]https://codepen.io/thanhmd/pen/aeVeLo
