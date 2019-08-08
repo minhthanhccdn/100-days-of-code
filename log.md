@@ -62,3 +62,11 @@ Another practice on sticky header as previous projects,... So I think I have to 
 Should finish this project tommorow
 
 **Link(s) to work**: [CodePen]https://codepen.io/thanhmd/pen/aeVeLo
+
+### Day 4: Aug 8, 2019
+#100DaysOfCode
+**Today's Progress**:
+- Try to tweak CSS and finally worked, learn a lot from other's code
+**Thoughts**: Reponsive design is pretty tricky and hard, I cound spend more time on it.
+
+**Link(s) to work**: [CodePen]https://codepen.io/thanhmd/pen/aeVeLo
