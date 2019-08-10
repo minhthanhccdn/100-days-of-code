@@ -70,3 +70,18 @@ Should finish this project tommorow
 **Thoughts**: Reponsive design is pretty tricky and hard, I cound spend more time on it.
 
 **Link(s) to work**: [CodePen]https://codepen.io/thanhmd/pen/aeVeLo
+
+### Day 5: Aug 9, 2019
+#100DaysOfCode
+- Learn the ES6 section, up to the spread operator
+- Try to research and learn on the Closure and setTimeOut function
+JavaScript Closures: setTimeout Inside a For Loop (via @Pocket) https://pocket.co/xInoIA
+
+
+### Day 6: Aug 10, 2019
+#100DaysOfCode
+- Learn and finish the ES6 section on #freeCodeCamp,
+- Learn the Event Loop, asynchromous callback, how they work,
+I found this video is useful https://www.youtube.com/watch?v=8aGhZQkoFbQ
+
+**Link(s) to work**: [CodePen]https://codepen.io/thanhmd/pen/aeVeLo
